@@ -1,0 +1,6 @@
+[submodule "pong"]
+	path = pong
+	url = https://github.com/koduj-z-klasa/pong.git
+[submodule "pylab"]
+	path = pylab
+	url = https://github.com/koduj-z-klasa/pylab.git
